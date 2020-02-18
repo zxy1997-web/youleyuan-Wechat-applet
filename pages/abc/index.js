@@ -1,4 +1,4 @@
-// pages/center/center.js
+// pages/abc/index.js
 Page({
 
   /**
